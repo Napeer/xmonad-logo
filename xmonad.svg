@@ -14,6 +14,7 @@
    inkscape:export-ydpi="100.25"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:snap-global="false"
-     inkscape:zoom="0.38529391"
-     inkscape:cx="-407.48114"
-     inkscape:cy="-114.19853"
+     inkscape:zoom="1"
+     inkscape:cx="398.54817"
+     inkscape:cy="563.74139"
      inkscape:window-width="1918"
      inkscape:window-height="1057"
      inkscape:window-x="1920"
@@ -42,12 +43,29 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient31246"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:1;"
+         offset="0"
+         id="stop31244" />
+    </linearGradient>
     <rect
        x="345.83988"
        y="522.0041"
        width="112.5764"
        height="72.671795"
        id="rect2553" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient31246"
+       id="linearGradient31248"
+       x1="121.69445"
+       y1="113.77192"
+       x2="190.50214"
+       y2="113.77192"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -59,7 +77,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:#000000"
+       style="fill:#000000;fill-opacity:1"
        id="path1231"
        inkscape:flatsided="false"
        sodipodi:sides="4"
@@ -75,6 +93,14 @@
        transform="scale(0.26458333)"
        inkscape:transform-center-x="1.3333333e-06"
        inkscape:transform-center-y="-1.8666666e-06" />
+    <path
+       style="opacity:1;mix-blend-mode:color;fill:url(#linearGradient31248);fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="M 121.70876,164.04309 190.50214,63.500759 121.69445,132.30211 Z"
+       id="path26262" />
+    <path
+       style="fill:#aeaeae;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 121.70864,164.04176 190.50225,63.500518 121.70377,132.29495 Z"
+       id="path32166" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,7 +108,7 @@
      inkscape:label="Layer 3">
     <path
        sodipodi:type="star"
-       style="fill:#ff0000"
+       style="fill:#ee0a0f;fill-opacity:1"
        id="path1399"
        inkscape:flatsided="true"
        sodipodi:sides="8"
